@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'nodetypescriptumesh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE4FCA1D9764465F9780F6B3DC00E37C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66973045F07348B2ABAAAED1C240A57E }}
           package: .
